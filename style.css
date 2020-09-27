@@ -105,5 +105,5 @@ a:hover,a.active{
 section{
     background: url(mim1.jpg) no-repeat;
     background-size: cover;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 40px);
 }
